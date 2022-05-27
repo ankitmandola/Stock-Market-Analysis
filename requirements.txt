@@ -1,0 +1,9 @@
+streamlit==1.9.0
+cufflinks==0.17.3
+scikit-learn
+scipy
+yfinance
+pandas
+pandas-datareader
+matplotlib
+matplotlib-inline
